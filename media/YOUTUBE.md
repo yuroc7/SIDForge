@@ -40,3 +40,30 @@ Controlled Windows Machine SID changes with inspection, account authorization, v
 CHANGE WINDOWS SID
 
 Controlled. Verified. Recoverable.
+
+---
+
+## Українська версія
+
+### Назва
+
+SID Forge — зміна Machine SID Windows для клонованих ПК і VM
+
+### Опис
+
+SID Forge виконує контрольовану зміну локального Machine SID на клонованих, відновлених або повторно розгорнутих Windows-комп’ютерах.
+
+Перевірте поточний і майбутній SID, підтвердьте операцію через свій акаунт, стежте за прогресом під час перезавантаження та отримайте зрозумілий результат після входу.
+
+Офіційний сайт і завантаження:
+https://sidforge.pp.ua/
+
+Ціни та доступні промо:
+https://sidforge.pp.ua/pricing
+
+Документація:
+https://github.com/yuroc7/SIDForge
+
+Перед зміною системної ідентичності створіть перевірену резервну копію. SID Forge не призначений для контролерів домену й не є універсальним ремонтом усіх ідентифікаторів клонованої Windows.
+
+#Windows #SID #SIDChanger #SysAdmin #VirtualMachine #Windows11 #WindowsServer

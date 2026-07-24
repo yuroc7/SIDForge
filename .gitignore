@@ -12,6 +12,6 @@ Thumbs.db
 *.pem
 *.config
 *.env
-media/video-filter.txt
+media/video-filter*.txt
 media/*contact.png
 .playwright-cli/
