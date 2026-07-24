@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+*.exe
+*.dll
+*.pdb
+*.zip
+*.7z
+*.log
+*.key
+*.pfx
+*.p12
+*.pem
+*.config
+*.env

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="760" viewBox="0 0 1280 760" role="img" aria-labelledby="title desc">
+  <title id="title">Current successful SID Forge result</title>
+  <desc id="desc">Separate result window with the old SID, new SID, and close button</desc>
+  <rect width="1280" height="760" fill="#dedede"/>
+  <rect x="188" y="112" width="904" height="536" rx="8" fill="#fff" stroke="#777"/>
+  <rect x="188" y="112" width="904" height="48" rx="8" fill="#f3f3f3"/>
+  <rect x="188" y="152" width="904" height="8" fill="#f3f3f3"/>
+  <text x="214" y="143" fill="#171717" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="600">SID Forge — result</text>
+  <text x="1061" y="143" fill="#171717" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="22">×</text>
+  <circle cx="264" cy="239" r="34" fill="#1f7a4d"/>
+  <path d="M246 239l12 13 25-29" fill="none" stroke="#fff" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#171717" font-family="Segoe UI,Arial,sans-serif">
+    <text x="321" y="230" font-size="27" font-weight="700">SID CHANGE COMPLETED SUCCESSFULLY</text>
+    <text x="321" y="267" font-size="19" fill="#555">The computer is ready to use.</text>
+  </g>
+  <line x1="232" y1="314" x2="1048" y2="314" stroke="#d8d8d8"/>
+  <g font-family="Cascadia Mono,Consolas,monospace" font-size="19">
+    <text x="232" y="374" fill="#555">Old SID</text>
+    <text x="232" y="411" fill="#171717">S-1-5-21-1192589550-3551385280-887858436</text>
+    <text x="232" y="473" fill="#555">New SID</text>
+    <text x="232" y="510" fill="#175f3b">S-1-5-21-440389623-502372871-2993815481</text>
+  </g>
+  <rect x="856" y="564" width="192" height="52" rx="5" fill="#242720"/>
+  <text x="952" y="597" fill="#fff" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="600">Close</text>
+</svg>
