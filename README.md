@@ -6,6 +6,8 @@ It guides the operator through inspection, account-bound authorization, restart,
 
 [Official website](https://sidforge.pp.ua/) · [Download](https://sidforge.pp.ua/download/sid-forge/stable) · [Pricing](https://sidforge.pp.ua/pricing) · [Support](mailto:support@sidforge.pp.ua)
 
+[Watch the short SID Forge workflow demo](media/SIDForge-demo.mp4)
+
 ![SID Forge result window](images/result.en.svg)
 
 ## Why administrators use SID Forge
@@ -53,6 +55,7 @@ Promotional codes may provide a limited number of SID changes, devices, or acces
 - [Verify an official download](docs/VERIFY-DOWNLOAD.md)
 - [Support and diagnostics](SUPPORT.md)
 - [Security policy](SECURITY.md)
+- [Media and directory listing copy](media/LISTING-COPY.md)
 
 ## Important repository notice
 
